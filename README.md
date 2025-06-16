@@ -1,7 +1,5 @@
 <div align="center">
   
-  <!-- Custom Logo Integration -->
-  <img src="https://dl.dropboxusercontent.com/scl/fi/7t6z5bt9h4lsznfvxh6te/Bash-02.png?rlkey=owfmbrv9swgdi6xq49ew3au85&st=gwgsgmla&dl=0" alt="Impact Nation Logo" width="150" style="margin-bottom: 20px;">
   
   <!-- Dynamic Header with Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Felix%20Aliguma&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🚀%20Innovation%20•%20Technology%20•%20Excellence%20🚀&descAlignY=60&descAlign=50&descSize=18"/>
