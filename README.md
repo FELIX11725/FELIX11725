@@ -26,48 +26,37 @@
   <table>
     <tr>
       <td width="60%">
+        <h3>👨‍💻 Developer Profile</h3>
         
-```typescript
-class FelixAliguma implements SoftwareEngineer {
-  readonly name = "Felix Aliguma";
-  readonly role = "Full-Stack Developer";
-  readonly location = "Uganda 🇺🇬";
-  readonly company = "Impact Nation";
-  
-  private skills = {
-    mobile: ["Flutter", "Dart"],
-    backend: ["Python", "PHP"],
-    design: ["Figma", "Adobe Suite"],
-    cloud: ["Firebase", "GCP"],
-    tools: ["Git", "VS Code"]
-  };
-  
-  getCurrentProjects(): Project[] {
-    return [
-      {
-        name: "Waste Management System",
-        tech: ["Flutter", "Firebase"],
-        impact: "Environmental Sustainability"
-      }
-    ];
-  }
-  
-  getPhilosophy(): string {
-    return "Code with passion, innovate with purpose! 🚀";
-  }
-}
+**🏢 Company:** Impact Nation  
+**📍 Location:** Uganda 🇺🇬  
+**💼 Role:** Full-Stack Software Engineer  
+**🎯 Focus:** Mobile & Web Development  
 
-const felix = new FelixAliguma();
-console.log(`${felix.name} is ready to build the future! ✨`);
-```
+### 🚀 **What I Do:**
+- 📱 **Mobile Development:** Building cross-platform apps with Flutter
+- 🐍 **Backend Development:** Creating robust APIs with Python
+- 🌐 **Web Development:** Crafting dynamic websites with PHP
+- 🎨 **UI/UX Design:** Designing beautiful interfaces with Figma
+- ☁️ **Cloud Integration:** Deploying scalable solutions with Firebase
+
+### 💡 **Current Mission:**
+*"Creating innovative solutions that push the boundaries of technology while continuously learning from experts in the ever-evolving field."*
+
+### 🔥 **Philosophy:**
+**Code with passion, innovate with purpose!** 🚀
+
+---
+
+**🌟 Fun Fact:** I debug code faster than I debug my life! 😄
 
       </td>
       <td width="40%">
         <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding Animation" width="350" />
         <br><br>
         
-  <!-- Real-time GitHub Activity -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FELIX11725&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff&icon_color=FF6B6B" alt="Coding Activity" />
+  <!-- GitHub Activity Widget -->
+  <img src="https://github-readme-stats.vercel.app/api?username=FELIX11725&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff&icon_color=FF6B6B&custom_title=Quick%20Stats&hide=contribs" alt="Quick GitHub Stats" />
         
       </td>
     </tr>
