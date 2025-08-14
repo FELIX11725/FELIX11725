@@ -21,7 +21,7 @@
 <tr>
 <td width="60%">
 
-**🏢 Company:** Impact Nation  
+**🏢 Company:** Nugsoft Technologies Ltd.
 **📍 Location:** Uganda 🇺🇬  
 **💼 Role:** Full-Stack Software Engineer  
 **🎯 Focus:** Web Development & Security  
@@ -115,7 +115,7 @@
 <div align="center">
 
 ### 🚀 Active Projects
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nugsoft&repo=training-felix&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+
 
 ### 📚 Learning Journey 2024-2025
 - **Django Development:** Building full-stack web applications
