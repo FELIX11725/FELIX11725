@@ -21,7 +21,7 @@
 <tr>
 <td width="60%">
 
-**🏢 Company:** Impact Nation
+**🏢 Company:** ImpactNation
 **📍 Location:** Uganda 🇺🇬  
 **💼 Role:** Full-Stack Software Engineer  
 **🎯 Focus:** Web Development & Security  
@@ -116,8 +116,7 @@
 
 ### 🚀 Active Projects
 ![Active Projects](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=wms)
-![Active Projects](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ccms)
-![Active Projects](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=todolist)
+
 
 ### 📚 Learning Journey 2024-2025
 - **Django Development:** Building full-stack web applications
