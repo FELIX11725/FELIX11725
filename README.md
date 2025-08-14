@@ -21,7 +21,7 @@
 <tr>
 <td width="60%">
 
-**🏢 Company:** ImpactNation
+**🏢 Company:** ImpactNation   
 **📍 Location:** Uganda 🇺🇬  
 **💼 Role:** Full-Stack Software Engineer  
 **🎯 Focus:** Web Development & Security  
