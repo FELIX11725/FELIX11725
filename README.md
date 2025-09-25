@@ -1,48 +1,56 @@
 <div align="center">
-  
-  <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,21262d&height=200&section=header&text=Felix%20Aliguma&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Web%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=60&descAlign=50&descSize=16"/>
-  
-</div>
 
-<div align="center">
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=FELIX11725&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Felix Aliguma&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software Engineer • Web Architect • Security Advocate&descAlignY=62&descAlign=50&descSize=18" alt="Felix Aliguma Banner" />
+
+  <!-- Dynamic Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=FELIX11725&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Company-felix.dev%20technologies-58A6FF?style=flat-square&logo=github&logoColor=white" alt="Company" />
+    <img src="https://img.shields.io/badge/Location-Uganda-00D4AA?style=flat-square&logo=map&logoColor=white" alt="Location" />
+  </p>
+
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&width=600&lines=Full-Stack+Web+Developer;PHP+%7C+Python+%7C+Django+Expert;UI%2FUX+Designer+with+Figma;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&width=700&lines=Architecting+Secure+Web+Systems;PHP+%7C+Python+%7C+Django+Specialist;UI%2FUX+Design+with+Figma;Cybersecurity+Researcher;Open+Source+Contributor" alt="Typing SVG" />
+
 </div>
 
-## 👨‍💻 About Me
+---
+
+## 🧠 **About Me**
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
-**🏢 Company:** ImpactNation   
-**📍 Location:** Uganda 🇺🇬  
-**💼 Role:** Full-Stack Software Engineer  
-**🎯 Focus:** Web Development & Security  
+### 🏢 **Professional Identity**
+- **Company:** [felix.dev technologies](https://github.com/FELIX11725)
+- **Role:** Full-Stack Software Engineer & Security Advocate
+- **Mission:** Building **secure**, **scalable**, and **user-centric** web solutions
 
-### What I Do:
-- 🌐 **Backend Development:** Building robust web applications with PHP & Python
-- 🐍 **Django Development:** Creating scalable web solutions with Django
-- 🎨 **UI/UX Design:** Crafting beautiful interfaces with Figma
-- 🔒 **Cybersecurity:** Learning ethical hacking and security best practices
-- ☁️ **Database Management:** Working with MySQL and other databases
+### 🔧 **Core Expertise**
+- **Backend Engineering:** Robust APIs & systems with PHP (Laravel) and Python (Django)
+- **Frontend Craftsmanship:** Responsive UIs with modern JavaScript frameworks
+- **Security-First Development:** Implementing OWASP principles & secure coding practices
+- **Database Architecture:** Optimized MySQL/PostgreSQL schemas with security hardening
+- **DevOps & Cloud:** CI/CD pipelines, containerization, and cloud deployment
 
-### Current Mission:
-*"Creating secure, efficient web solutions while continuously expanding my knowledge in cybersecurity and modern web technologies."*
-
-### Philosophy:
-**Code with security in mind, design with users at heart!** 🚀
+### 💡 **Philosophy**
+> *"Security isn't a feature—it's the foundation. Great software marries elegant design with uncompromising security."*
 
 </td>
-<td width="40%">
+<td width="35%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FELIX11725&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=FELIX11725&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&custom_title=Development%20Metrics" alt="GitHub Stats" />
+
+  <!-- Achievement Badge -->
+  <br>
+  <img src="https://img.shields.io/badge/Code%20Quality-A%2B-58A6FF?style=for-the-badge&logo=code&logoColor=white" alt="Code Quality" />
+
+</div>
 
 </td>
 </tr>
@@ -50,146 +58,140 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
+## 🚀 **Tech Stack**
 
 ### Languages & Frameworks
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### Tools & Technologies
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-### Learning & Security
-<img src="https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethical_Hacking-00D4AA?style=for-the-badge&logo=hackaday&logoColor=white" />
-<img src="https://img.shields.io/badge/Network_Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-
-</div>
-
-### 📊 Skill Levels
-
-| Technology | Level | Experience |
-|------------|-------|------------|
-| **PHP** | ⭐⭐⭐⭐⭐ | Advanced - 3+ years |
-| **Figma** | ⭐⭐⭐⭐⭐ | Advanced - UI/UX Design |
-| **Python** | ⭐⭐⭐⭐ | Intermediate to Advanced |
-| **Django** | ⭐⭐⭐ | Learning & Practicing |
-| **Cybersecurity** | ⭐⭐⭐ | Learning & Growing |
-| **MySQL** | ⭐⭐⭐⭐ | Proficient |
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
   
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FELIX11725&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FELIX11725&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FELIX11725&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&hide_border=true" width="100%" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 </div>
 
----
-
-## 🎯 Current Projects & Learning
-
-<div align="center">
-
-### 🚀 Active Projects
-![Active Projects](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=wms)
-
-
-### 📚 Learning Journey 2024-2025
-- **Django Development:** Building full-stack web applications
-- **Advanced PHP:** Modern PHP frameworks and best practices  
-- **Cybersecurity:** Ethical hacking, penetration testing, and security auditing
-- **Database Optimization:** Advanced MySQL and database security
-- **Cloud Security:** Understanding cloud infrastructure security
-
-</div>
-
----
-
-## 🏆 Achievements
-
+### Infrastructure & Tools
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=FELIX11725&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 📋 Milestones
-<img src="https://img.shields.io/badge/Years_Coding-3+-58A6FF?style=for-the-badge&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_Projects-15+-00D4AA?style=for-the-badge&logo=check-circle&logoColor=white" />
-<img src="https://img.shields.io/badge/Technologies-10+-FF6B6B?style=for-the-badge&logo=stack&logoColor=white" />
+</div>
+
+### Security & DevOps
+<div align="center">
+  
+![OWASP](https://img.shields.io/badge/OWASP-8C1515?style=flat&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C9D?style=flat&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-008CFF?style=flat&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF1744?style=flat&logo=metasploit&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 **Development Analytics**
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
-<a href="https://x.com/FelixA117" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FELIX11725&theme=radical&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" />
 </td>
-<td align="center">
-<a href="https://www.linkedin.com/in/felix-aliguma-640a10228/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</td>
-<td align="center">
-<a href="mailto:aligumafelix117@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-</td>
-<td align="center">
-<a href="https://stackoverflow.com/users/felix-aliguma" target="_blank">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-</a>
+<td width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FELIX11725&theme=radical&hide_border=false&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
-**💬 Always open to collaborating on interesting projects and discussing new technologies!**
+<br>
 
-<img src="https://img.shields.io/badge/Response_Time-Within_24h-58A6FF?style=flat-square&logo=clock&logoColor=white" />
-<img src="https://img.shields.io/badge/Timezone-UTC+3-00D4AA?style=flat-square&logo=world&logoColor=white" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FELIX11725&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&hide_border=false" width="100%" />
+
+</div>
+
+---
+
+## 🏆 **Achievements & Recognition**
+
+<div align="center">
+
+### GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=FELIX11725&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+### Professional Milestones
+| Achievement | Details |
+|-------------|---------|
+| **💻 3+ Years** | Professional Software Development |
+| **🔒 50+ Projects** | Security-First Web Applications |
+| **🌐 15+ Repos** | Public Open-Source Contributions |
+| **📚 100+ Commits** | Monthly Average Contribution |
+
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <a href="https://x.com/FelixA117" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</td>
+<td align="center" width="25%">
+  <a href="https://www.linkedin.com/in/felix-aliguma-640a10228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</td>
+<td align="center" width="25%">
+  <a href="mailto:aligumafelix117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</td>
+<td align="center" width="25%">
+  <a href="https://stackoverflow.com/users/felix-aliguma" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</td>
+</tr>
+</table>
+
+<br>
+
+> **💬 Open to:** Collaborations • Security Audits • Technical Discussions • Mentorship  
+> **⏰ Response Time:** Within 24 hours • **Timezone:** UTC+3 (East Africa)
 
 </div>
 
 ---
 
 <div align="center">
+
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer" />
+
+  <p>
+    <em>"In code we trust, but verify. In design we delight, but never compromise security."</em>
+  </p>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,21262d&height=100&section=footer"/>
-
-**"Security is not a product, but a process. Code is not just logic, but art."**
-
-<img src="https://visitcount.itsvg.in/api?id=FELIX11725&icon=5&color=1" alt="Visit Count" />
-
-⭐ **Star my repositories if you find them interesting!** ⭐
-
+  <img src="https://visitcount.itsvg.in/api?id=FELIX11725&icon=6&color=58A6FF" alt="Visit Count" />
+  
+  <br><br>
+  
+  ⭐ **Star my repositories if you find them useful!** ⭐
+  
 </div>
