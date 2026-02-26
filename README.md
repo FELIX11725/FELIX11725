@@ -1,296 +1,426 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!--                                    ✨ FELIX ALIGUMA - GITHUB PROFILE ✨                              -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Felix%20Aliguma&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Cybersecurity%20Specialist%20|%20UI/UX%20Designer&descAlignY=55&descSize=16"/>
+<!-- Animated 3D Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Felix%20Aliguma&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Cybersecurity%20Specialist%20•%20UI/UX%20Designer&descAlignY=60&descSize=18&stroke=667eea&strokeWidth=2"/>
 
+<!-- Animated Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=FELIX11725&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/FELIX11725?label=Followers&style=flat-square&color=667eea" alt="Followers" />
+  <a href="https://github.com/FELIX11725">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&style=for-the-badge&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FFELIX11725&color=667eea&labelColor=1a1b27" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=FELIX11725&label=Profile%20Views&color=764ba2&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
+  <a href="https://github.com/FELIX11725?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&style=for-the-badge&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FFELIX11725&color=667eea&labelColor=1a1b27" alt="Total Stars"/>
+  </a>
 </p>
+
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Building+Secure%2C+Scalable+Web+Applications;%F0%9F%94%92+Protecting+Digital+Assets+Through+Cybersecurity;%F0%9F%8E%A8+Crafting+Beautiful+User+Experiences" alt="Typing SVG"/>
+</a>
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👋 Welcome to My GitHub
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                         🎯 ABOUT ME SECTION                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  About Me
+</h2>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```typescript
-const developer = {
-    name: "Felix Aliguma",
-    location: "Kampala, Uganda 🇺🇬",
-    company: "felix.dev technologies",
-    role: "Founder & Lead Software Engineer",
-    
-    expertise: {
-        backend: ["PHP", "Python", "Django", "Laravel"],
-        frontend: ["JavaScript", "React", "HTML5", "CSS3"],
-        design: ["Figma", "Adobe XD", "Photoshop", "UI/UX"],
-        security: ["Ethical Hacking", "Penetration Testing", "Security Audits"],
+class Developer {
+    name = "Felix Aliguma";
+    location = "Kampala, Uganda 🇺🇬";
+    title = "Founder & Lead Software Engineer";
+    company = "felix.dev technologies";
+
+    skills = {
+        backend:   ["PHP", "Python", "Django", "Laravel", "Node.js"],
+        frontend:  ["React", "JavaScript", "TypeScript", "Tailwind"],
+        security:  ["Penetration Testing", "Ethical Hacking", "Audits"],
+        design:    ["Figma", "Adobe XD", "UI/UX", "Prototyping"],
         databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"]
-    },
-    
-    currentFocus: "Building secure, scalable, and user-centric web applications",
-    availability: "Open to collaboration and freelance opportunities"
-};
+    };
+
+    currentlyLearning = ["Advanced Django", "Cloud Architecture"];
+    funFact = "I debug with coffee ☕ and solve problems in my dreams 💭";
+}
 ```
 
-<br/>
-
-## 🎯 Core Competencies
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Backend Development
-- **PHP** • Advanced server-side programming
-- **Python** • Data processing & automation
-- **Django** • Robust web framework development
-- **Laravel** • Elegant PHP framework solutions
-- **RESTful APIs** • Scalable API architecture
-
-</td>
-<td valign="top" width="50%">
-
-### Frontend & Design
-- **JavaScript/React** • Modern UI development
-- **UI/UX Design** • User-centered experiences
-- **Figma** • High-fidelity prototyping
-- **Responsive Design** • Mobile-first approach
-- **CSS Frameworks** • Bootstrap & Tailwind
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### Database Management
-- **MySQL** • Relational database design
-- **PostgreSQL** • Advanced data solutions
-- **MongoDB** • NoSQL database management
-- **Query Optimization** • Performance tuning
-- **Data Security** • Protection best practices
-
-</td>
-<td valign="top" width="50%">
-
-### Security & DevOps
-- **Cybersecurity** • Vulnerability assessment
-- **Penetration Testing** • Security audits
-- **Git/GitHub** • Version control mastery
-- **Linux** • Server administration
-- **Docker** • Containerization solutions
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Statistics
+<br clear="both"/>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FELIX11725&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&ring_color=667eea" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FELIX11725&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FELIX11725&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=FELIX11725&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=9f9f9f&area=true&area_color=667eea" />
+| 🎯 Quick Facts | |
+|:-|:-|
+| 🔭 Currently working on | **Secure Enterprise Web Apps** |
+| 🌱 Learning | **Cloud Architecture & DevOps** |
+| 👯 Open to collaborate on | **Security & Full-Stack Projects** |
+| 💬 Ask me about | **PHP, Python, Django, Security** |
+| 📫 Reach me | **aligumafelix117@gmail.com** |
+| ⚡ Fun fact | **I can spot security vulnerabilities from a mile away** |
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Technical Stack
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                      📊 GITHUB ANALYTICS SECTION                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/>
+  GitHub Analytics
+</h2>
 
 <div align="center">
 
-### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- GitHub Stats Grid -->
+<p>
+  <a href="https://github.com/FELIX11725">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FELIX11725&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FELIX11725&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=10"/>
+  </a>
+</p>
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<!-- GitHub Streak Stats -->
+<p>
+  <a href="https://github.com/FELIX11725">
+    <img src="https://streak-stats.demolab.com?user=FELIX11725&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
+  </a>
+</p>
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<!-- 3D Contribution Calendar -->
+<p>
+  <a href="https://github.com/FELIX11725">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FELIX11725/FELIX11725/output/github-contribution-grid-snake-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FELIX11725/FELIX11725/output/github-contribution-grid-snake.svg"/>
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FELIX11725/FELIX11725/output/github-contribution-grid-snake.svg"/>
+    </picture>
+  </a>
+</p>
 
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+<!-- Activity Graph -->
+<a href="https://github.com/FELIX11725">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FELIX11725&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&area_color=667eea"/>
+</a>
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Security
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- GitHub Trophies -->
+<a href="https://github.com/FELIX11725">
+  <img src="https://github-profile-trophy.vercel.app/?username=FELIX11725&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1"/>
+</a>
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Focus
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                       🛠️ TECH STACK SECTION                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"/>
+  Tech Arsenal
+</h2>
+
+<div align="center">
+
+<!-- Languages with Skill Bars -->
+### 💻 Languages & Scripts
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css,bash&theme=dark&perline=7"/>
+  </a>
+</p>
+
+### 🚀 Frameworks & Libraries
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,laravel,react,nextjs,vue,bootstrap,tailwind,jquery&theme=dark&perline=8"/>
+  </a>
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,aws,gcp&theme=dark&perline=8"/>
+  </a>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,nginx,figma,postman&theme=dark&perline=8"/>
+  </a>
+</p>
+
+### 🔐 Security & Penetration Testing
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux&theme=dark"/>
+  </a>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
+</p>
+
+<!-- Animated Skill Progress -->
+### 📈 Skill Proficiency
+
+```text
+PHP & Laravel       ████████████████████░░░░░   85%
+Python & Django     ███████████████████░░░░░░   80%
+JavaScript/React    █████████████████░░░░░░░░   70%
+Database Design     ████████████████████░░░░░   85%
+UI/UX Design        █████████████████░░░░░░░░   72%
+Cybersecurity       ███████████████████░░░░░░   78%
+DevOps & CI/CD      ████████████████░░░░░░░░░   65%
+```
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                       🎯 SERVICES SECTION                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"/>
+  Professional Services
+</h2>
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br/>
-<b>Full-Stack Development</b><br/>
-<sub>Building scalable web applications</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/><br/>
-<b>Advanced Django</b><br/>
-<sub>Mastering Python web framework</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="60"/><br/>
-<b>Cybersecurity</b><br/>
-<sub>Ethical hacking & pentesting</sub>
-</td>
+  <td align="center" width="25%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="80"/>
+    <br/><b>Web Development</b>
+    <br/><sub>Full-stack solutions, APIs, E-commerce, CMS platforms</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="80"/>
+    <br/><b>Cybersecurity</b>
+    <br/><sub>Penetration testing, Security audits, Vulnerability assessment</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="80"/>
+    <br/><b>UI/UX Design</b>
+    <br/><sub>Figma prototypes, User research, Brand identity</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="80"/>
+    <br/><b>Consulting</b>
+    <br/><sub>Tech strategy, Architecture planning, Performance optimization</sub>
+  </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-## 💼 Professional Services
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                     🏆 ACHIEVEMENTS SECTION                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://media.giphy.com/media/3orifgQANkr3Zn35zG/giphy.gif" width="30px"/>
+  Achievements & Metrics
+</h2>
+
+<div align="center">
+
+<!-- Animated Stats Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Experience-4+%20Years-667eea?style=for-the-badge&logo=timeline&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Projects-25+-764ba2?style=for-the-badge&logo=task&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Technologies-20+-667eea?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Clients-15+-764ba2?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1b27"/>
+</p>
+
+<!-- Detailed Metrics Cards -->
 <table>
 <tr>
-<td width="50%">
-
-### 🌐 Web Development
-- Custom web application development
-- E-commerce platform solutions
-- Content management systems
-- API development & integration
-- Database design & optimization
-
-</td>
-<td width="50%">
-
-### 🎨 Design Services
-- UI/UX design & prototyping
-- Wireframing & mockups
-- Brand identity development
-- User research & testing
-- Responsive design solutions
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔒 Security Services
-- Vulnerability assessments
-- Penetration testing
-- Security audits & compliance
-- Code review & analysis
-- Security consultation
-
-</td>
-<td width="50%">
-
-### 🚀 Consulting
-- Technology stack selection
-- Architecture planning
-- Performance optimization
-- Best practices guidance
-- Technical training
-
-</td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="60"/>
+    <br/><h3>4+</h3>
+    <sub>Years Experience</sub>
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60"/>
+    <br/><h3>25+</h3>
+    <sub>Projects Delivered</sub>
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="60"/>
+    <br/><h3>15+</h3>
+    <sub>Happy Clients</sub>
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="60"/>
+    <br/><h3>100%</h3>
+    <sub>Client Satisfaction</sub>
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Done.png" width="60"/>
+    <br/><h3>&lt;12h</h3>
+    <sub>Response Time</sub>
+  </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-## 🏆 Achievements & Metrics
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                      🌟 FEATURED PROJECTS                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"/>
+  Featured Projects
+</h2>
 
 <div align="center">
 
-![Coding Experience](https://img.shields.io/badge/Experience-4+%20Years-667eea?style=for-the-badge&logo=code&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects%20Delivered-25+-764ba2?style=for-the-badge&logo=check-circle&logoColor=white)
-![Technologies](https://img.shields.io/badge/Technologies-15+-667eea?style=for-the-badge&logo=stackshare&logoColor=white)
-![Clients](https://img.shields.io/badge/Happy%20Clients-10+-764ba2?style=for-the-badge&logo=handshake&logoColor=white)
+<a href="https://github.com/FELIX11725?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FELIX11725&repo=FELIX11725&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
+</a>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=FELIX11725&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+<!-- Add more pinned repos here as needed -->
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Connect With Me
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                       📫 CONNECT SECTION                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/>
+  Let's Connect
+</h2>
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FelixA117)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-aliguma-640a10228/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aligumafelix117@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/felix-aliguma)
+<!-- Social Links with Hover Animation -->
+<p>
+  <a href="https://www.linkedin.com/in/felix-aliguma-640a10228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="https://x.com/FelixA117" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="mailto:aligumafelix117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="https://stackoverflow.com/users/felix-aliguma" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16"/>
+  </a>
+</p>
 
-<br/>
+<!-- Availability Status -->
+<p>
+  <img src="https://img.shields.io/badge/🟢_Status-Available_for_Hire-00C851?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/📍_Location-Kampala,_Uganda-667eea?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/⏰_Timezone-EAT_(UTC+3)-764ba2?style=for-the-badge&labelColor=1a1b27"/>
+</p>
 
-### 🤝 Collaboration & Availability
-
-![Open for Collaboration](https://img.shields.io/badge/Collaboration-Open-success?style=flat-square&logo=handshake&logoColor=white)
-![Freelance Available](https://img.shields.io/badge/Freelance-Available-success?style=flat-square&logo=freelancer&logoColor=white)
-![Response Time](https://img.shields.io/badge/Response-Within%2012h-blue?style=flat-square&logo=clock&logoColor=white)
-![Timezone](https://img.shields.io/badge/Timezone-EAT%20(UTC+3)-orange?style=flat-square&logo=world&logoColor=white)
+<!-- Contact Card -->
+<table>
+<tr>
+  <td>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50"/>
+  </td>
+  <td>
+    <b>Open to:</b> Full-time opportunities, Freelance projects, Consulting, Collaborations
+    <br/><sub>Let's build something amazing together! Reach out and let's discuss your project.</sub>
+  </td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Activity
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                         🎵 SPOTIFY SECTION                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="30px"/>
+  Coding Vibes
+</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FELIX11725&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&area_color=667eea" width="100%"/>
+<!-- Daily Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                           FOOTER SECTION                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💡 *"Building tomorrow's web, securing today's digital world"*
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true"/>
+<!-- Inspirational Quote -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bright%20Button.png" width="30"/>
+<b><i>"Building tomorrow's web, securing today's digital world"</i></b>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bright%20Button.png" width="30"/>
 
 <br/><br/>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+<!-- Action Buttons -->
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Star.png" width="20"/> Star repos you find useful
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bell.png" width="20"/> Follow for updates
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Speech%20Balloon.png" width="20"/> Let's collaborate!
+</p>
 
-<sub>⭐ Star repositories you find interesting • 🔔 Follow for updates • 💬 Let's collaborate!</sub>
+<!-- Visitor Counter -->
+<p>
+  <img src="https://moe-counter.glitch.me/get/@FELIX11725?theme=rule34"/>
+</p>
 
-<br/>
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=FELIX11725&icon=6&color=12&pretty=true)
+<!-- Animated Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&animation=twinkling"/>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--                                             THE END                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
